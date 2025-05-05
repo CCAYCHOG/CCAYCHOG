@@ -1,7 +1,7 @@
 # 👨‍💻 Julio César Caycho García
 
 **Ingeniero de Sistemas e Informática**  
-📍 Chilca, Perú  
+📍 Lima, Perú  
 📧 ing@cesarcaycho.com  
 📱 (+51) 949 727 024  
 
