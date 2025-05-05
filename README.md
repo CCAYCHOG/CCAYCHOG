@@ -15,9 +15,9 @@ Soy un Ingeniero de Sistemas e Informática con experiencia en **análisis de da
 
 ## 🛠️ Tecnologías y Herramientas
 
-- Lenguajes: `PHP`, `SQL`, `HTML`, `CSS`, `JavaScript`, `Python (básico)`
+- Lenguajes: `PHP`, `SQL`, `HTML`, `CSS`, `JavaScript`, `Python`, `C#`
 - Bases de datos: `MySQL`, `SQL Server`
-- Frameworks y herramientas: `Bootstrap`, `WordPress`, `MSQL`
+- Frameworks y herramientas: `Bootstrap`, `WordPress`, `MSQL`, `Flask`
 - Otros: `SIAGIE`, `Gestión Documentaria`, `Analítica Web`, `Cloud Computing`
 
 ---
